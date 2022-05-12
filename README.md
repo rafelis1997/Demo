@@ -10,7 +10,7 @@ or place it on your provider server like any other web page.
   <img src="https://user-images.githubusercontent.com/60658855/168090946-7eded517-bcfd-4313-835a-43b9480174a2.gif" alt="animated" />
 </p>
 
-# Teste the code by yourself
+# Teste the page by yourself
 
 
 Test this technology of AR: 
