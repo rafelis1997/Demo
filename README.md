@@ -38,7 +38,7 @@ Fiverr(https://www.fiverr.com/rafelis)
 E-mail: rafaelheros80@gmail.com
 
 <p align="left">
-  <img src="https://feronconi.com.br/wp-content/uploads/2019/07/instagram-new-2016-logo-4773FE3F99-seeklogo.com_.png" width="50" hight="50">
+  <img src="https://feronconi.com.br/wp-content/uploads/2019/07/instagram-new-2016-logo-4773FE3F99-seeklogo.com_.png" width="45" hight="45">
 </p>
 
 Instagram(https://www.instagram.com/rafheros/)
