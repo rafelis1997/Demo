@@ -2,7 +2,7 @@
 Welcome to my AR demo page, this code was made as an exemple of my work with a simple AR marker scan, but we can do image tracking to!!
 
 This is AR all runing directly from a web page using AR.js Library ([check more about it here)](https://ar-js-org.github.io/AR.js-Docs/), with HTML/CSS and JavaScrypt. So you can incorporate it easily on any existing web page 
-or place it on your provider server like any othe web page.
+or place it on your provider server like any other web page.
 
 # Check this out
 
